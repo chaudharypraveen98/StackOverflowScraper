@@ -1,4 +1,4 @@
-## **Stack Overflow Question Scrapper**
+## **Stack Overflow Question Scraper**
 This scrapper scrapes the questions from the stack overflow depending upon the number of votes, newest, active , no of question, no of pages to search and the field in which you want to search the question(topic).
 
 ##### Level: Beginner
@@ -10,7 +10,7 @@ This scrapper scrapes the questions from the stack overflow depending upon the n
 
 ##### How to use :-
 1. First clone the repo by following command:-
-<br>`git clone https://github.com/chaudharypraveen98/StackOverflowScrapper.git`
+<br>`git clone https://github.com/chaudharypraveen98/StackOverflowScraper.git`
 2. Then you have to install all the required dependencies by following command :-
 `pip3 install -r requirements.txt`
 3. Run the file in python interactive mode. Now you are ready to go. To scrap the Stack Overflows Question , type:- <br>
